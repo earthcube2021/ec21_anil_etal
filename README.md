@@ -8,4 +8,4 @@ Use the link below to access the notebook in Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanil72900/ec21_binder_anil.git/HEAD?filepath=SA_01_Argo_Data_Exploration.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/sanil72900/ec21_binder_anil.git/HEAD?filepath=SA_01_Argo_Data_Exploration.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/sanil72900/ec21_binder_anil.git/HEAD?filepath=SA_01_Argo_Data_Exploration.ipynb)
