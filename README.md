@@ -8,4 +8,4 @@ All data is open-source and made available to the public on the Argovis website.
 
 Use the link below to access the notebook in Binder: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanil72900/ec21_binder_anil.git/HEAD?filepath=SA_01_Argo_Data_Exploration.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_anil_etal.git/HEAD?filepath=SA_01_Argo_Data_Exploration.ipynb)
